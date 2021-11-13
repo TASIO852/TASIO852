@@ -17,11 +17,6 @@
   <img align="center" alt="Tasio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
   
-<div>
-  <p align="center">
-    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-  </p>
-</div>
 
 <div>  
 <a href="https://www.instagram.com/tasio_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,6 +26,8 @@
 ![Snake animation](https://github.com/TASIO852/TASIO852/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-
-
-    
+<div>
+  <p align="center">
+    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  </p>
+</div>
