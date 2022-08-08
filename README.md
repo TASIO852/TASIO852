@@ -8,7 +8,7 @@
 </section>
 </br>
 <p align="center">
-  <img src="https://github.com/TASIO852/TASIO852/tree/main/Gif/Gif_Profile.gif">
+  <img src="Gif/Gif_Profile.gif">
 </p>
 
 ## Sobre minha formação/experiência 😁🤞
